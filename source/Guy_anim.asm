@@ -1,0 +1,19 @@
+;Guy animation names, generated automatically
+Guy_Idle = 0
+Guy_Walk = 1
+Guy_JumpKickUp = 2
+Guy_JumpKickSide = 3
+Guy_Damage = 4
+Guy_DamageFall = 5
+Guy_StandUp = 6
+Guy_PunchLeft = 7
+Guy_PunchRight = 8
+Guy_Uppercut = 9
+Guy_Throw = 10
+Guy_ThrowKick = 11
+Guy_ThrowDown = 12
+Guy_Twist = 13
+Guy_Super = 14
+Guy_ThrowShuriken = 15
+Guy_SuperKick = 16
+Guy_Kissed = 17

@@ -1,0 +1,10 @@
+C:\YandexDisk\Mighty Final Fight\utility\ScreensMaker\ScreensMaker\bin\Release\ScreensMaker.exe
+C:\YandexDisk\Mighty Final Fight\utility\ScreensMaker\ScreensMaker\bin\Release\ScreensMaker.pdb
+C:\YandexDisk\Mighty Final Fight\utility\ScreensMaker\ScreensMaker\obj\x86\Release\ScreensMaker.CaptureForm.resources
+C:\YandexDisk\Mighty Final Fight\utility\ScreensMaker\ScreensMaker\obj\x86\Release\ScreensMaker.MainForm.resources
+C:\YandexDisk\Mighty Final Fight\utility\ScreensMaker\ScreensMaker\obj\x86\Release\ScreensMaker.Properties.Resources.resources
+C:\YandexDisk\Mighty Final Fight\utility\ScreensMaker\ScreensMaker\obj\x86\Release\ScreensMaker.csproj.GenerateResource.Cache
+C:\YandexDisk\Mighty Final Fight\utility\ScreensMaker\ScreensMaker\obj\x86\Release\ScreensMaker.exe
+C:\YandexDisk\Mighty Final Fight\utility\ScreensMaker\ScreensMaker\obj\x86\Release\ScreensMaker.pdb
+C:\YandexDisk\Mighty Final Fight\utility\ScreensMaker\ScreensMaker\obj\x86\Release\ScreensMaker.InputBox.resources
+C:\YandexDisk\Mighty Final Fight\utility\ScreensMaker\ScreensMaker\obj\x86\Release\ScreensMaker.csprojResolveAssemblyReference.cache

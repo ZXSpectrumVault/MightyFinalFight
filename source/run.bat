@@ -1,0 +1,39 @@
+..\MegaLZ\MegaLZ.exe ..\bin\Cody.bin
+..\MegaLZ\MegaLZ.exe ..\bin\Guy.bin
+..\MegaLZ\MegaLZ.exe ..\bin\Haggar.bin
+..\MegaLZ\MegaLZ.exe ..\res\screens\MainMenu.bin
+..\MegaLZ\MegaLZ.exe ..\res\screens\SelectPlayer.bin
+..\MegaLZ\MegaLZ.exe ..\res\screens\Settings.bin
+..\MegaLZ\MegaLZ.exe ..\res\screens\Intro.bin
+..\MegaLZ\MegaLZ.exe ..\res\screens\Ending.bin
+..\MegaLZ\MegaLZ.exe ..\res\screens\Tutorial.bin
+..\MegaLZ\MegaLZ.exe ..\res\screens\LoadingScreen.scr
+..\MegaLZ\MegaLZ.exe ..\res\screens\EasterEgg.scr
+..\MegaLZ\MegaLZ.exe ..\music\nq-mff-title-screen.pt3
+..\MegaLZ\MegaLZ.exe ..\music\nq-mff-player-select-menu.pt3
+..\MegaLZ\MegaLZ.exe ..\music\nq-mff-ending-theme.pt3
+..\MegaLZ\MegaLZ.exe ..\music\nq-mff-bonus-round.pt3
+..\MegaLZ\MegaLZ.exe ..\music\nq-mff-prologue.pt3
+..\MegaLZ\MegaLZ.exe ..\music\nq-mff-training.pt3
+
+..\compiler\sjasmplus main.asm
+..\compiler\sjasmplus disk_creator.asm
+..\emul\US0371\unreal.exe
+
+del ..\bin\Cody.bin.mlz
+del ..\bin\Guy.bin.mlz
+del ..\bin\Haggar.bin.mlz
+del ..\res\screens\MainMenu.bin.mlz
+del ..\res\screens\SelectPlayer.bin.mlz
+del ..\res\screens\Settings.bin.mlz
+del ..\res\screens\Intro.bin.mlz
+del ..\res\screens\Ending.bin.mlz
+del ..\res\screens\Tutorial.bin.mlz
+del ..\res\screens\LoadingScreen.scr.mlz
+del ..\res\screens\EasterEgg.scr.mlz
+del ..\music\nq-mff-title-screen.pt3.mlz
+del ..\music\nq-mff-player-select-menu.pt3.mlz
+del ..\music\nq-mff-ending-theme.pt3.mlz
+del ..\music\nq-mff-bonus-round.pt3.mlz
+del ..\music\nq-mff-prologue.pt3.mlz
+del ..\music\nq-mff-training.pt3.mlz

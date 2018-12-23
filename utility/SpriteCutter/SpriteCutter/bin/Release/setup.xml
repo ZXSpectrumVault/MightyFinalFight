@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WorkPath>C:\YandexDisk\Mighty Final Fight\res\sprites/</WorkPath>
+  <BinPath>C:\YandexDisk\Mighty Final Fight\bin/</BinPath>
+  <SourcePath>C:\YandexDisk\Mighty Final Fight\source/</SourcePath>
+  <ColorEnable>-16777216</ColorEnable>
+  <ColorDisable>-1</ColorDisable>
+  <ColorMask>-16711872</ColorMask>
+  <ColorSelection>-65536</ColorSelection>
+  <ColorCollider>-16776961</ColorCollider>
+</Settings>

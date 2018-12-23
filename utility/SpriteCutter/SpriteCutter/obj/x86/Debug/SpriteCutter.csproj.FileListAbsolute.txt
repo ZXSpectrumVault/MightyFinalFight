@@ -1,0 +1,57 @@
+C:\Users\Саша и Оля\AppData\Local\Temporary Projects\SpriteCutter\bin\Debug\SpriteCutter.exe
+C:\Users\Саша и Оля\AppData\Local\Temporary Projects\SpriteCutter\bin\Debug\SpriteCutter.pdb
+C:\Users\Саша и Оля\AppData\Local\Temporary Projects\SpriteCutter\obj\x86\Debug\Sprite_Editor.CaptureForm.resources
+C:\Users\Саша и Оля\AppData\Local\Temporary Projects\SpriteCutter\obj\x86\Debug\Sprite_Editor.EditorForm.resources
+C:\Users\Саша и Оля\AppData\Local\Temporary Projects\SpriteCutter\obj\x86\Debug\Sprite_Editor.InputBox.resources
+C:\Users\Саша и Оля\AppData\Local\Temporary Projects\SpriteCutter\obj\x86\Debug\Sprite_Editor.MainForm.resources
+C:\Users\Саша и Оля\AppData\Local\Temporary Projects\SpriteCutter\obj\x86\Debug\SpriteCutter.Properties.Resources.resources
+C:\Users\Саша и Оля\AppData\Local\Temporary Projects\SpriteCutter\obj\x86\Debug\SpriteCutter.csproj.GenerateResource.Cache
+C:\Users\Саша и Оля\AppData\Local\Temporary Projects\SpriteCutter\obj\x86\Debug\SpriteCutter.exe
+C:\Users\Саша и Оля\AppData\Local\Temporary Projects\SpriteCutter\obj\x86\Debug\SpriteCutter.pdb
+C:\Users\Саша и Оля\AppData\Local\Temporary Projects\SpriteCutter\obj\x86\Debug\SpriteCutter.MainForm.resources
+c:\users\саша и оля\documents\visual studio 2010\Projects\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.exe
+c:\users\саша и оля\documents\visual studio 2010\Projects\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.pdb
+c:\users\саша и оля\documents\visual studio 2010\Projects\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.MainForm.resources
+c:\users\саша и оля\documents\visual studio 2010\Projects\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.Properties.Resources.resources
+c:\users\саша и оля\documents\visual studio 2010\Projects\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.csproj.GenerateResource.Cache
+c:\users\саша и оля\documents\visual studio 2010\Projects\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.CaptureForm.resources
+c:\users\саша и оля\documents\visual studio 2010\Projects\SpriteCutter\SpriteCutter\bin\Debug\SpriteCutter.exe
+c:\users\саша и оля\documents\visual studio 2010\Projects\SpriteCutter\SpriteCutter\bin\Debug\SpriteCutter.pdb
+c:\users\саша и оля\documents\visual studio 2010\Projects\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.InputBox.resources
+C:\Users\Саша и Оля\Documents\Visual Studio 2010\Projects\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.csprojResolveAssemblyReference.cache
+C:\Users\Саша и Оля\Documents\Visual Studio 2010\Projects\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.SetupForm.resources
+C:\Dropbox\beatemup\utility\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.exe
+C:\Dropbox\beatemup\utility\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.pdb
+C:\Dropbox\beatemup\utility\SpriteCutter\SpriteCutter\bin\Debug\SpriteCutter.exe
+C:\Dropbox\beatemup\utility\SpriteCutter\SpriteCutter\bin\Debug\SpriteCutter.pdb
+C:\Dropbox\beatemup\utility\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.csprojResolveAssemblyReference.cache
+C:\Dropbox\beatemup\utility\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.CaptureForm.resources
+C:\Dropbox\beatemup\utility\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.InputBox.resources
+C:\Dropbox\beatemup\utility\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.MainForm.resources
+C:\Dropbox\beatemup\utility\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.Properties.Resources.resources
+C:\Dropbox\beatemup\utility\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.SetupForm.resources
+C:\Dropbox\beatemup\utility\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.csproj.GenerateResource.Cache
+C:\MyProjects\Beat ’em up\utility\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.exe
+C:\MyProjects\Beat ’em up\utility\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.pdb
+C:\MyProjects\Beat ’em up\utility\SpriteCutter\SpriteCutter\bin\Debug\SpriteCutter.exe
+C:\MyProjects\Beat ’em up\utility\SpriteCutter\SpriteCutter\bin\Debug\SpriteCutter.pdb
+C:\MyProjects\Beat ’em up\utility\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.csprojResolveAssemblyReference.cache
+C:\MyProjects\Beat ’em up\utility\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.CaptureForm.resources
+C:\MyProjects\Beat ’em up\utility\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.InputBox.resources
+C:\MyProjects\Beat ’em up\utility\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.MainForm.resources
+C:\MyProjects\Beat ’em up\utility\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.Properties.Resources.resources
+C:\MyProjects\Beat ’em up\utility\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.SetupForm.resources
+C:\MyProjects\Beat ’em up\utility\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.csproj.GenerateResource.Cache
+C:\MyProjects\Beat ’em up\utility\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.SpriteInputBox.resources
+C:\YandexDisk\Mighty Final Fight\utility\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.exe
+C:\YandexDisk\Mighty Final Fight\utility\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.pdb
+C:\YandexDisk\Mighty Final Fight\utility\SpriteCutter\SpriteCutter\bin\Debug\SpriteCutter.exe
+C:\YandexDisk\Mighty Final Fight\utility\SpriteCutter\SpriteCutter\bin\Debug\SpriteCutter.pdb
+C:\YandexDisk\Mighty Final Fight\utility\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.csprojResolveAssemblyReference.cache
+C:\YandexDisk\Mighty Final Fight\utility\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.CaptureForm.resources
+C:\YandexDisk\Mighty Final Fight\utility\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.InputBox.resources
+C:\YandexDisk\Mighty Final Fight\utility\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.MainForm.resources
+C:\YandexDisk\Mighty Final Fight\utility\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.Properties.Resources.resources
+C:\YandexDisk\Mighty Final Fight\utility\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.SetupForm.resources
+C:\YandexDisk\Mighty Final Fight\utility\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.SpriteInputBox.resources
+C:\YandexDisk\Mighty Final Fight\utility\SpriteCutter\SpriteCutter\obj\x86\Debug\SpriteCutter.csproj.GenerateResource.Cache

@@ -1,0 +1,26 @@
+C:\MyProjects\Beat ’em up\utility\WorldEditor\WorldEditor\bin\Release\WorldEditor.exe
+C:\MyProjects\Beat ’em up\utility\WorldEditor\WorldEditor\bin\Release\WorldEditor.pdb
+C:\MyProjects\Beat ’em up\utility\WorldEditor\WorldEditor\obj\x86\Release\WorldEditor.InputBox.resources
+C:\MyProjects\Beat ’em up\utility\WorldEditor\WorldEditor\obj\x86\Release\WorldEditor.LocationEditorForm.resources
+C:\MyProjects\Beat ’em up\utility\WorldEditor\WorldEditor\obj\x86\Release\WorldEditor.Properties.Resources.resources
+C:\MyProjects\Beat ’em up\utility\WorldEditor\WorldEditor\obj\x86\Release\WorldEditor.csproj.GenerateResource.Cache
+C:\MyProjects\Beat ’em up\utility\WorldEditor\WorldEditor\obj\x86\Release\WorldEditor.exe
+C:\MyProjects\Beat ’em up\utility\WorldEditor\WorldEditor\obj\x86\Release\WorldEditor.pdb
+C:\MyProjects\Beat ’em up\utility\WorldEditor\WorldEditor\obj\x86\Release\WorldEditor.csprojResolveAssemblyReference.cache
+C:\MyProjects\Beat ’em up\utility\WorldEditor\WorldEditor\obj\x86\Release\WorldEditor.CaptureFromImgForm.resources
+C:\MyProjects\Beat ’em up\utility\WorldEditor\WorldEditor\obj\x86\Release\WorldEditor.PropertyForm.resources
+C:\MyProjects\Beat ’em up\utility\WorldEditor\WorldEditor\obj\x86\Release\WorldEditor.TilesetEditorForm.resources
+C:\Users\Саша и Оля\YandexDisk\Mighty Final Fight\utility\WorldEditor\WorldEditor\obj\x86\Release\WorldEditor.exe
+C:\Users\Саша и Оля\YandexDisk\Mighty Final Fight\utility\WorldEditor\WorldEditor\obj\x86\Release\WorldEditor.pdb
+C:\YandexDisk\Mighty Final Fight\utility\WorldEditor\WorldEditor\obj\x86\Release\WorldEditor.exe
+C:\YandexDisk\Mighty Final Fight\utility\WorldEditor\WorldEditor\obj\x86\Release\WorldEditor.pdb
+C:\YandexDisk\Mighty Final Fight\utility\WorldEditor\WorldEditor\bin\Release\WorldEditor.exe
+C:\YandexDisk\Mighty Final Fight\utility\WorldEditor\WorldEditor\bin\Release\WorldEditor.pdb
+C:\YandexDisk\Mighty Final Fight\utility\WorldEditor\WorldEditor\obj\x86\Release\WorldEditor.csprojResolveAssemblyReference.cache
+C:\YandexDisk\Mighty Final Fight\utility\WorldEditor\WorldEditor\obj\x86\Release\WorldEditor.CaptureFromImgForm.resources
+C:\YandexDisk\Mighty Final Fight\utility\WorldEditor\WorldEditor\obj\x86\Release\WorldEditor.InputBox.resources
+C:\YandexDisk\Mighty Final Fight\utility\WorldEditor\WorldEditor\obj\x86\Release\WorldEditor.LocationEditorForm.resources
+C:\YandexDisk\Mighty Final Fight\utility\WorldEditor\WorldEditor\obj\x86\Release\WorldEditor.Properties.Resources.resources
+C:\YandexDisk\Mighty Final Fight\utility\WorldEditor\WorldEditor\obj\x86\Release\WorldEditor.PropertyForm.resources
+C:\YandexDisk\Mighty Final Fight\utility\WorldEditor\WorldEditor\obj\x86\Release\WorldEditor.TilesetEditorForm.resources
+C:\YandexDisk\Mighty Final Fight\utility\WorldEditor\WorldEditor\obj\x86\Release\WorldEditor.csproj.GenerateResource.Cache

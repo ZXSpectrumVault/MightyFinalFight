@@ -1,0 +1,21 @@
+;Cody animation names, generated automatically
+Cody_Idle = 0
+Cody_IdleKnife = 1
+Cody_Walk = 2
+Cody_WalkKnife = 3
+Cody_JumpKickUp = 4
+Cody_JumpKickSide = 5
+Cody_Damage = 6
+Cody_DamageFall = 7
+Cody_StandUp = 8
+Cody_PunchLeft = 9
+Cody_PunchRight = 10
+Cody_Uppercut = 11
+Cody_Throw = 12
+Cody_ThrowKick = 13
+Cody_ThrowDown = 14
+Cody_Twist = 15
+Cody_Super = 16
+Cody_ThrowKnife = 17
+Cody_PunchKnife = 18
+Cody_Kissed = 19

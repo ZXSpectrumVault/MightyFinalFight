@@ -1,0 +1,7 @@
+C:\YandexDisk\Mighty Final Fight\MegaLZ\MLZShell\MLZShell\bin\Debug\MLZShell.exe
+C:\YandexDisk\Mighty Final Fight\MegaLZ\MLZShell\MLZShell\bin\Debug\MLZShell.pdb
+C:\YandexDisk\Mighty Final Fight\MegaLZ\MLZShell\MLZShell\obj\x86\Debug\MLZShell.Form1.resources
+C:\YandexDisk\Mighty Final Fight\MegaLZ\MLZShell\MLZShell\obj\x86\Debug\MLZShell.Properties.Resources.resources
+C:\YandexDisk\Mighty Final Fight\MegaLZ\MLZShell\MLZShell\obj\x86\Debug\MLZShell.csproj.GenerateResource.Cache
+C:\YandexDisk\Mighty Final Fight\MegaLZ\MLZShell\MLZShell\obj\x86\Debug\MLZShell.exe
+C:\YandexDisk\Mighty Final Fight\MegaLZ\MLZShell\MLZShell\obj\x86\Debug\MLZShell.pdb

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocationsPath>C:\YandexDisk\Mighty Final Fight\res\locations</LocationsPath>
+  <CurrentLocName>1-1</CurrentLocName>
+  <TilesetPath>C:\YandexDisk\Mighty Final Fight\res\tileset</TilesetPath>
+  <CurrentTilesetName>1-1</CurrentTilesetName>
+</Settings>

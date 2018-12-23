@@ -1,0 +1,22 @@
+;Items animation names, generated automatically
+Items_Barrel = 0
+Items_BarrelBreak = 1
+Items_Eat = 2
+Items_Rage = 3
+Items_Heart = 4
+Items_KnifeWeapon = 5
+Items_ShurikenWeapon = 6
+Items_HummerWeapon = 7
+Items_Blade = 8
+Items_BirdIdle = 9
+Items_BirdSeeBack = 10
+Items_BirdSeeUp = 11
+Items_BirdWing = 12
+Items_BirdFly = 13
+Items_RatIdle = 14
+Items_RatRun = 15
+Items_Knife = 16
+Items_Wave = 17
+Items_Shuriken = 18
+Items_Hummer = 19
+Items_Arm = 20
